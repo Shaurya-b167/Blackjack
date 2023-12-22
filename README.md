@@ -1,0 +1,1 @@
+This repository contains the code for a full fledged user-friendy blackjack app made in Java fx with the help of GUI for all the graphics. It contains all the graphics and images required for a real life application. The zip file has all the files for the code.
